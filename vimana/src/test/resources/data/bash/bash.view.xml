@@ -1,0 +1,6 @@
+<views>
+	<view name="BashHomeView">
+		<uielement name="Tab1"><findElement browser="default">name=id</findElement></uielement>
+    </view>
+   
+</views>

@@ -1,0 +1,13 @@
+<testdata>
+	<data name="parentData1">parentData1 Value1</data>
+	<data name="parentData1">parentData1 Value1</data>
+	
+	
+	
+	<dataset name="BashTestScanario1">
+		<set name="BashTestScanarioTestCase1" enable="true">
+			<data name="testData1">Test Data1 Value</data>
+			<data name="testData2">Test Data2 Value</data>
+		</set>
+	</dataset>
+</testdata>

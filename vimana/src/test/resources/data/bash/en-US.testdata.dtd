@@ -1,0 +1,7 @@
+<!ENTITY % view SYSTEM "en-US.view.dtd">
+<!ENTITY testdata.bash SYSTEM "testdata.bash.xml">
+%view;
+<!ENTITY key1 "value1">
+<!ENTITY key2 "value2">
+
+

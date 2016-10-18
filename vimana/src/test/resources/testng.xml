@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Default Suite" parallel="methods" >
+	<parameter name="configFile" value="src/test/resources/config.properties" />
+	<test name="sample" preserve-order="false">
+		<groups>
+			<run>
+				<include name="prerequisite" />
+				<include name="sample" />
+			</run>
+		</groups>
+		<packages>
+			<package name="com.gsngames.qa.bashfb.test.*" />
+		</packages>
+	</test>
+	
+</suite>
+

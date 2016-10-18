@@ -1,0 +1,4 @@
+<!ENTITY flangeview SYSTEM "bash.view.xml">
+
+<!ENTITY key1 "value1">
+<!ENTITY key2 "value2">

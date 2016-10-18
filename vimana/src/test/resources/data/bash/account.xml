@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE testData SYSTEM "intl.testdata.dtd">
+<accounts>
+	<pool name="qa">
+		<account userName='calbugbash35@yahoo.com' password='testing' />
+	</pool>
+</accounts>

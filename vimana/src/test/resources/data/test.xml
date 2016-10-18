@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><viewRoot>
+ <views >
+	<view name="BashHomeView">
+		<uielement name="Tab1"><findElement browser="default">name=id</findElement></uielement>
+    </view>
+   
+</views>
+</viewRoot>
